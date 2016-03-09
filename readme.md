@@ -5,7 +5,7 @@
 ## Getting Started
 
 1. Fork this repo, and clone it into your development directory on your local machine.
-2. Follow the directions [here](https://github.com/sf-wdi-26/modules/tree/master/w08/d03/m1-handlebars-templating) to add Handlebars to the project.
+2. Follow the directions [here](https://github.com/sf-wdi-26/modules/tree/master/w08/d03/m2-handlebars-templating) to add Handlebars to the project.
 
 ## Resources
 
