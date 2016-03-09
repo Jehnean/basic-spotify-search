@@ -5,7 +5,7 @@
 ## Getting Started
 
 1. Fork this repo, and clone it into your development directory on your local machine.
-2. Follow the directions [here]() to replace `main.js` line 54
+2. Follow the directions [here](https://github.com/sf-wdi-26/modules/tree/master/w08/d03/m1-handlebars-templating) to add Handlebars to the project.
 
 In the next module we'll incorporate this code into an Express app.
 
